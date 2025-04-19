@@ -1,3 +1,4 @@
 # learn
 This is my first ever github repo.
-Sujal Parajuli
+<br>
+<strong>Sujal Parajuli</strong>
